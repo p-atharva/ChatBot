@@ -19,7 +19,11 @@
 
             </div>
             <div class="card-body">
-                
+                {% for response in chat_responses %}
+                <div>
+                    - {{response}}
+                </div>
+                {% endfor %}
 
             </div>
 

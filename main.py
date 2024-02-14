@@ -22,7 +22,7 @@ async def chat_page(request: Request):
 
 
 #----------------------------------------------------------------------------------------
-chat_log = []
+chat_log = [{'role': 'system', 'content': 'You are Codita, A personal assistant who answers simple day to day questions, in a fun and humorous way'}]
 
 chat_responses = []
 
