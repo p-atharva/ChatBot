@@ -1,2 +1,2 @@
 # ChatBot
-Chatbot developed using FastAPI, OpenAI, GPT, and DALL-E
+Chatbot developed using FastAPI, OpenAI, GPT, and hopefully DALL-E
